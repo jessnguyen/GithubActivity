@@ -5,7 +5,3 @@ services:
      - "8080"
     image: activity
 
-  proxy:
-    ports:
-     - "8888:8888"
-    image: ng   
